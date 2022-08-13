@@ -64,3 +64,6 @@ li {
 .row {
   margin: 20px;
 }
+.open {
+  margin: 20px auto;
+}
